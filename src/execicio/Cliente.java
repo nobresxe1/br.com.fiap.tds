@@ -1,7 +1,11 @@
 package execicio;
 
 public class Cliente {
-    public static void main(String[] args) {
 
-    }
-}
+                String nome;
+                String sobrenome;
+                char genero;
+                String datadenascimeto;
+                int CPF;
+                int RG;
+        }
